@@ -1,4 +1,11 @@
-# Global Energy Consumption and Emission Analysis using SQL
+![SQL](https://img.shields.io/badge/SQL-Structured_Query_Language-blue)
+![Data Analysis](https://img.shields.io/badge/Data-Analysis-green)
+![Energy Analytics](https://img.shields.io/badge/Domain-Energy_Analytics-orange)
+![Emissions](https://img.shields.io/badge/Focus-Carbon_Emissions-red)
+![Global Dataset](https://img.shields.io/badge/Scope-Global-lightgrey)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+# Global Energy Consumption & Carbon Emission Analysis (SQL)
 
 ## Project Overview
 This project analyzes global energy production, energy consumption, carbon emissions, GDP, and population data using SQL.  
@@ -69,7 +76,15 @@ A structured database schema was designed to organize the data efficiently.
 - Some countries demonstrate that emissions can be reduced through better efficiency and planning.
 
 ---
+## Use Cases
 
+- Identifying high-emission countries for policy intervention  
+- Comparing energy efficiency across economies  
+- Supporting sustainability and climate reporting  
+- Analyzing emission trends for long-term planning  
+- Academic and research-oriented energy studies
+
+---
 ## Conclusion
 This project shows how SQL can be used to transform raw global energy data into meaningful insights.  
 The analysis highlights the relationship between energy usage, economic growth, and emissions, and supports data-driven decision-making for sustainable energy and emission management.
